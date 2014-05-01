@@ -23,3 +23,7 @@ article section h2 {
 .mast-home {
 	position: fixed;
 }
+
+#main {
+	display: none;
+}
