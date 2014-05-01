@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
 				"back",
 				"background-color"
 			],
@@ -31,23 +43,7 @@
 			"file": "about.html",
 			"settings":
 			{
-				"buffer_size": 5031,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "bootstrap/css/cover.css",
-			"settings":
-			{
-				"buffer_size": 2440,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/custom.css",
-			"settings":
-			{
-				"buffer_size": 122,
+				"buffer_size": 5508,
 				"line_ending": "Windows"
 			}
 		},
@@ -56,6 +52,22 @@
 			"settings":
 			{
 				"buffer_size": 2694,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap/css/cover.css",
+			"settings":
+			{
+				"buffer_size": 2398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 265,
 				"line_ending": "Windows"
 			}
 		}
@@ -136,7 +148,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -144,15 +156,15 @@
 					"file": "about.html",
 					"settings":
 					{
-						"buffer_size": 5031,
+						"buffer_size": 5508,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								596,
-								596
+								1574,
+								1574
 							]
 						],
 						"settings":
@@ -162,67 +174,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 345.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "bootstrap/css/cover.css",
-					"settings":
-					{
-						"buffer_size": 2440,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								501,
-								501
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 246.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/custom.css",
-					"settings":
-					{
-						"buffer_size": 122,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22,
-								22
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "index.html",
 					"settings":
 					{
@@ -233,8 +191,8 @@
 						"selection":
 						[
 							[
-								585,
-								585
+								1185,
+								2300
 							]
 						],
 						"settings":
@@ -245,6 +203,60 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 229.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bootstrap/css/cover.css",
+					"settings":
+					{
+						"buffer_size": 2398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2031,
+								2031
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1489.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/custom.css",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
