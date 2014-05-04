@@ -1,6 +1,7 @@
 /* Hide the intro and bring in the main application on clicking 'get started' */
 $('#start-button').click(function() {
-	$('#intro').hide('slow', function() {
-		$('#main').show('slow');
+	$('.site-wrapper').hide('slow', 'linear', function() {
+		$('#main').css('display', 'block');
+		$('body').css('background-image', 'url(../AudioCity/media/images/CvilleBlur.png)');
 	});
 });
