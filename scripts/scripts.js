@@ -30,7 +30,7 @@ $('#start-button').click(function() {
 			if (finished) {
 				$('#main').css('opacity', 0);
 				$('body').css('background-image', 'url(../AudioCity/media/images/CvilleCrop.png)');
-				$('body').append('<h1 class="cover-heading">Complete</h1>');
+				$('body').append('<h1 class="cover-heading">Welcome to Charlottesville, Virginia!</h1>');
 			}
 		});
 	});
