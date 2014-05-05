@@ -14,7 +14,7 @@ $('#start-button').click(function() {
 		$('.audio-button').click(function(event) {
 			$('#' + event.target.id.toString()).remove();
 			var overlayOpacity = $('#main').css('opacity');
-			overlayOpacity -= 0.02;
+			overlayOpacity -= 0.015;
 			$('#main').css('opacity', overlayOpacity);
 
 			console.log('#audio' + event.target.id.toString());
